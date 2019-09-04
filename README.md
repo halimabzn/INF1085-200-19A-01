@@ -5,7 +5,7 @@ Administration Linux
 
 |No| Date   | Cours                       | Intitulé                                |  Pratique .                            |
 |--|--------|:----------------------------|:----------------------------------------|:---------------------------------------|
-| 1|17-09-18| [3.Boot](./3.Boot)          | Installer Ubuntu 18.04                  | Démontrer l'installation par un blog (i.e. http://wordpress.com  ) |
+| 1|16-09-19| [3.Boot](./3.Boot)          | Installer Ubuntu 18.04                  | Démontrer l'installation par un blog (i.e. http://wordpress.com  ) |
 
 
 ## Resultats d'Apprentissage du Cours
