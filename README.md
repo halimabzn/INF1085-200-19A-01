@@ -38,4 +38,6 @@ Administration Linux
 
 [aws_summit_toronto_2019](https://www.cvent.com/events/aws-summit-toronto/registration-34622b420102432e812ca0ed88d09bfd.aspx?lang=fr-CA&fqp=true)
 
+# Activités
+
 https://aws.training
