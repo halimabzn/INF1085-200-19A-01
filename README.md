@@ -12,7 +12,7 @@ Administration Linux
 
 |No|L'etudiant(e) aura demontre, de facon fiable, sa capacite a:      |          Elements de performance                               | 
 |--|------------------------------------------------------------------|:---------------------------------------------------------------| 
-| 1| installater un systeme d'exploitation                            | Savoir:                                                        | 
+| 1| installer un systeme d'exploitation                              | Savoir:                                                        | 
 |  |                                                                  | Savoir Faire:                                                  | 
 |  |                                                                  | Savoir Etre:                                                   | 
 | 2| Planifier les services                                           | Savoir:                                                        | 
