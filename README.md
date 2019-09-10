@@ -19,23 +19,6 @@ Administration Linux
 |  |                                                                  | Savoir Faire:                                                  | 
 |  |                                                                  | Savoir Etre:                                                   | 
 
-## Elements de Performance
-
-|No| Date   | Cours                       | Intitulé                                |  Pratique .                            |
-|--|--------|:----------------------------|:----------------------------------------|:---------------------------------------|
-| 1|04-09-19| (*)                         | Rentree des classes                     |                                        |
-| 2|09-09-19| [A.Docker](./A.Docker)      | Docker                                  |                                        |
-|  |        | [0.Shell](./0.Shell)        | Shell                                   |                                        |
-|  |        | [1.Docker](./1.Docker)      | Docker Example                          |                                        |
-|  |        | [3.Boot](./3.Boot)          | Boot                                    |    Ubuntu 18.04                        |
-
-## Devoirs:
-
-| Date   |                                                     |     Commentaires                                                      |
-|:------:|:----------------------------------------------------|:----------------------------------------------------------------------|
-|05-09-19| [3NF](./1.3NF)                                      | * Domaine, * 1NF, * 2NF, * 3NF                                        |
-
-
 ## Déroulement de cours:
 
 |# | Date   |                                                     |     Commentaires                                                   |
