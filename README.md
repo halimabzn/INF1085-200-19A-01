@@ -29,6 +29,34 @@ Administration Linux
 |  |        | [1.Docker](./1.Docker)      | Docker Example                          |                                        |
 |  |        | [3.Boot](./3.Boot)          | Boot                                    |    Ubuntu 18.04                        |
 
+## Devoirs:
+
+| Date   |                                                     |     Commentaires                                                      |
+|:------:|:----------------------------------------------------|:----------------------------------------------------------------------|
+|05-09-19| [3NF](./1.3NF)                                      | * Domaine, * 1NF, * 2NF, * 3NF                                        |
+
+
+## Déroulement de cours:
+
+|# | Date   |                                                     |     Commentaires                                                   |
+|--|:------:|:----------------------------------------------------|:-------------------------------------------------------------------|
+|01|03-09-19|                                                     | Rentrée des classes                                                |
+|03|10-09-19| [0.Shell](./0.Shell)                                | Shell                                                              |
+|02|17-09-19| [3.Boot](./3.Boot)                                  | Boot                           Ubuntu 18.04                        |
+|04|24-09-19| TBD                                                 | TBD                                                                |
+|05|01-10-19| TBD                                                 | TBD                                                                |
+|06|08-10-19| TBD                                                 | TBD                                                                |
+|07|15-10-19| TBD                                                 | TBD                                                                |
+|08|22-10-19| Semaine d'études                                    | Pas de cours                                                       |
+|09|29-10-19| TBD                                                 | TBD                                                                |
+|10|05-11-19| TBD                                                 | TBD                                                                |
+|11|12-11-19| TBD                                                 | TBD                                                                |
+|12|19-11-19| TBD                                                 | TBD                                                                |
+|13|26-11-19| TBD                                                 | TBD                                                                |
+|14|03-12-19| TBD                                                 | TBD                                                                |
+|15|10-12-19| TBD                                                 | TBD                                                                |
+
+
 
 # References
 
