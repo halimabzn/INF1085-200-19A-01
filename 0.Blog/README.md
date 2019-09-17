@@ -17,6 +17,8 @@ Astuces:
 * Installer la machine dans le laboratoire:
 
        Choisir une adresse dans la plage de réseau: 10.13.237.0/28
+       
+## Liste des blogs
 
 | :id:      | Noms, Prénoms                            |   Blog (https://wordpress.com)                           |
 |-----------|------------------------------------------|----------------------------------------------------------|
