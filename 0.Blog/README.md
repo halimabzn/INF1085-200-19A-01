@@ -36,4 +36,8 @@ Astuces:
 | 300112687 | Nsomwe Tshimanga, `Joseph` Hervé         |                                                          |
 | 300113775 | Armand, `Widby`                          |                                                          |
 
+| :id:      | Noms, Prénoms                            |   Blog (https://wordpress.com)                           |
+|-----------|------------------------------------------|----------------------------------------------------------|
+| 300098957 | Prof                                     |  https://setrar.wordpress.com/2015/01/10/bitstamp/       | 
+
 
