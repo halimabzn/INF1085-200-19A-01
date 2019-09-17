@@ -22,10 +22,10 @@ Astuces:
 
 | :id:      | Noms, Prénoms                            |   Blog (https://wordpress.com)                           |
 |-----------|------------------------------------------|----------------------------------------------------------|
-| 300104524 | Geneus, Echnaideur                       |                                                          |
-| 300105201 | Dorval, Jacques Fabrice                  |                                                           |
-| 300106918 | Chaouche, `Abdelkader`                   |                                                           |
-| 300107361 | Etienne, `Toch`galy Kitovah J.           |                                                           |
+| 300104524 | Geneus, `Echnaideur`                     |                                                          |
+| 300105201 | Dorval, Jacques `Fabrice`                |                                                          |
+| 300106918 | Chaouche, `Abdelkader`                   |                                                          |
+| 300107361 | Etienne, `Toch`galy Kitovah J.           |                                                          |
 | 300108234 | Fadde, `Halima`                          |                                                          |
 | 300110500 | Guigma, `Didier` Sidwende                |                                                          |
 | 300110529 | Kayembe, `David`                         |                                                          |
