@@ -4,9 +4,8 @@ https://training.linuxfoundation.org/certification/linux-foundation-certified-sy
 
 ## Domains & Competencies
 
-```
-The Linux Foundation worked with industry experts and the Linux kernel community to identify the core domains and the critical skills, knowledge and competencies applicable to each certification. Performance-based exams were then developed based on the competencies that were identified.
-```
+
+  The Linux Foundation worked with industry experts and the Linux kernel community to identify the core domains and the critical skills, knowledge and competencies applicable to each certification. Performance-based exams were then developed based on the competencies that were identified.
 
 ```
 Essential Commands – 25%
