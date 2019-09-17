@@ -15,7 +15,7 @@ Service Configuration – 20%
 Storage Management – 13%
 ```
 
-### Show More
+### Show More :+:
 
 #### Essential Commands – 25%
 
