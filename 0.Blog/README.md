@@ -33,5 +33,7 @@ Astuces:
 | 300111766 | Thiam, `Cheikh`                          |                                                          |
 | 300112017 | Adechoubou, `Olaïtan` Machoukouri O.R.   |                                                          |
 | 300112917 | Heri, `Djuma`                            |                                                          |
+| 300112687 | Nsomwe Tshimanga, `Joseph` Hervé         |                                                          |
 | 300113775 | Armand, `Widby`                          |                                                          |
+
 
