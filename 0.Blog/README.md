@@ -22,10 +22,10 @@ Astuces:
 
 | :id:      |   Blog (https://wordpress.com)                           | Serveur      |
 |-----------|----------------------------------------------------------|--------------|
-| 300104524 |  `Présentation`                                          | 10.13.237.19 |
+| 300104524 |  https://linuxinstallation572303153.wordpress.com        | 10.13.237.19 |
 | 300104541 |                                                          |              |
 | 300105201 |                                                          |              |
-| 300106918 |                                                          | 10.13.237.18 |
+| 300106918 |  https://networkake.wordpress.com                        | 10.13.237.18 |
 | 300107361 |  https://infoscience570953701.wordpress.com              | 10.13.237.99 |
 | 300108234 |  https://linux1stblog.blogspot.com                       | 10.13.237.55 |
 | 300110500 |                                                          | 10.13.237.75 |
