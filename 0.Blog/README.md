@@ -35,7 +35,7 @@ Astuces:
 | 300112017 |                                                          | 10.13.237.60 |
 | 300112687 |                                                          | 10.13.237.87 |
 | 300112917 | https://ubuntuserver101.blogpost.com                     | 10.13.237.79 |
-| 300113775 |                                                          |              |
+| 300113775 | https://linuxserver.cmonsite.fr                          | 10.13.237.77 |
 
 #### Example
 
